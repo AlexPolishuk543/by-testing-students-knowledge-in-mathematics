@@ -94,6 +94,8 @@ math-testing-system/
 │       └── results-view.fxml         # Просмотр результатов
 ├── src/main/resources/questions/
 │   └── algebra_questions.
+json        # Пример файла с вопросами
+└── pom.xml                   # Maven конфигурация
 
 ```
 ## 5. Технические требования
