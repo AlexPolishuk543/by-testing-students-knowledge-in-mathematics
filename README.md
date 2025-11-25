@@ -23,7 +23,7 @@ Mathematics Testing System — это десктопное приложение 
 ### Сборка и запуск через Maven
 
 1.  Клонируйте репозиторий:
-       git clone https://github.com/ВАШ_USERNAME/math-testing-system.git
+       git clone https://github.com/ВАШ_USERNAME/by-testing-students-knowledge-in-mathematics.git
     cd math-testing-system
     
 2.  Соберите проект:
