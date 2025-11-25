@@ -1,4 +1,5 @@
 # Mathematics Testing System
+ <div align="center">
 
 ## 1. Описание проекта
 
