@@ -64,7 +64,7 @@ Mathematics Testing System — это десктопное приложение 
 4.  Добавьте вопросы: Выберите тип вопроса, введите текст вопроса и правильные ответы
 5.  Сохраните тест для дальнейшего использования
   ## 4. Структура репозитория
-  ```bash
+```bash
 math-testing-system/
 ├── src/main/java/com/yourcompany/mathtesting/
 │   ├── controller/           # JavaFX контроллеры
